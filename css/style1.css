@@ -172,8 +172,9 @@
     align-items: center;
     /* background-color: aqua; */
 }
-#solution h3{
-    margin-top:20px;
+
+.mid-2 .solution {
+    color: forestgreen;
 }
 h1{
     padding:10px 0px 10px 0px;
